@@ -1,6 +1,9 @@
 # calculadora_prestamos_GUI
 Calculadora de Préstamos con interfaz gráfica : Versión 0.6
 
+![CapturaPrestamosGUI](https://github.com/Juan-Fuente-T/calculadora_prestamos_GUI/assets/127140423/28c9437a-2e13-466d-b5ca-0c8453c54e73)
+
+
 La Calculadora de Préstamos es una herramienta monousuario diseñada para su uso personal y profesional en entornos Windows y Linux. Proporciona estimaciones aproximadas de cuotas mensual o anual basadas en el sistema francés de interés compuesto.
 
 Fecha de publicación: Julio de 2023

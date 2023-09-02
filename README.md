@@ -17,6 +17,7 @@ Instrucciones de uso
 Requisitos de operación
 Instalación
 Créditos e información de contacto
+
 1. Breve descripción de la aplicación
 La Calculadora de Préstamos es una herramienta diseñada para calcular cuotas anuales y mensuales simulando un préstamo real. Permite ajustar el capital, el interés y el plazo de amortización.
 
@@ -34,9 +35,9 @@ La calculadora mostrará tanto la cuota mensual como la cuota anual. Los cálcul
 
 4. Requisitos de operación
 La Calculadora de Préstamos requiere:
-
 Sistema operativo Windows XP o superior.
-5. Instalación
+
+6. Instalación
 La instalación de la Calculadora de Préstamos se realiza mediante un instalador que automatiza el proceso en unos pocos clics. Aunque no requiere reiniciar el equipo ni cerrar otras aplicaciones, se deben proporcionar permisos de administrador en Windows Vista y versiones posteriores.
 
 La carpeta de instalación se creará en la unidad C: del disco duro, y se generarán accesos directos en la carpeta Programas del menú de Inicio y en el Escritorio.

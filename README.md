@@ -33,8 +33,8 @@ Para utilizar la Calculadora de Préstamos, siga estos pasos:
 
  - Ingrese la cantidad de capital a solicitar.
  - Ingrese el porcentaje de interés a aplicar.
- - Ingrese la duración en años como plazo de amortización (máximo 35 años).
- - Presione "Enter" para calcular.
+ - Ingrese la duración en años como plazo de amortización.
+ - Presione el botón **Calcular** para obtener los resultados.
 La calculadora mostrará tanto la cuota mensual como la cuota anual. Los cálculos se basan en la fórmula real de interés compuesto del sistema francés.
 
 ### 4. Requisitos de uso

@@ -2,16 +2,17 @@
 # Calculadora de Préstamos con interfaz gráfica : Versión 0.6
 
 
-# Captura de pantalla
-
-![CapturaPrestamosGUI](https://github.com/Juan-Fuente-T/calculadora_prestamos_GUI/assets/127140423/28c9437a-2e13-466d-b5ca-0c8453c54e73)
-
-
 La Calculadora de Préstamos es una herramienta monousuario diseñada para su uso personal y profesional en entornos Windows y Linux. Proporciona estimaciones aproximadas de cuotas mensual o anual basadas en el sistema francés de interés compuesto.
 
 Fecha de publicación: Julio de 2023
 Autor: Juan Fuente
 Edición: GRATUITA
+
+
+# Captura de pantalla
+![CapturaPrestamosGUI](https://github.com/Juan-Fuente-T/calculadora_prestamos_GUI/assets/127140423/28c9437a-2e13-466d-b5ca-0c8453c54e73)
+
+
 
 ## Contenido de este documento
  - Breve descripción de la aplicación
@@ -36,16 +37,22 @@ Para utilizar la Calculadora de Préstamos, siga estos pasos:
  - Presione "Enter" para calcular.
 La calculadora mostrará tanto la cuota mensual como la cuota anual. Los cálculos se basan en la fórmula real de interés compuesto del sistema francés.
 
-### 4. Requisitos de operación
-La Calculadora de Préstamos requiere:
-Sistema operativo Windows XP o superior.
+### 4. Requisitos de instalación
+Antes de ejecutar el programa, asegúrate de tener instalado Python en tu sistema. Puedes hacerlo siguiendo estos pasos:
 
-### 5. Instalación
-La instalación de la Calculadora de Préstamos se realiza mediante un instalador que automatiza el proceso en unos pocos clics. Aunque no requiere reiniciar el equipo ni cerrar otras aplicaciones, se deben proporcionar permisos de administrador en Windows Vista y versiones posteriores.
+## Clona este repositorio en tu máquina local:
+### git clone https://github.com/tu-usuario/tu-proyecto.git
 
-La carpeta de instalación se creará en la unidad C: del disco duro, y se generarán accesos directos en la carpeta Programas del menú de Inicio y en el Escritorio.
+## Ingresa al directorio del proyecto:
+### cd tu-proyecto
 
-### 6. Créditos e información de contacto
+## Instala las dependencias necesarias ejecutando el siguiente comando:
+### pip install -r requirements.txt
+
+## Ejecuta el siguiente comando para iniciar la aplicación:
+### python calculadora_prestamos_grafica-0.0.1.py (o adaptar al nombre exacto del archivo si es necesario)
+
+### 5. Créditos e información de contacto
 La Calculadora de Préstamos es creada, diseñada, desarrollada y documentada por Juan Fuente en 2023.
 
 **© 2023 Juan Fuente**

@@ -1,6 +1,7 @@
 # calculadora_prestamos_GUI
 # Calculadora de Préstamos con interfaz gráfica : Versión 0.6
 
+
 # Captura de pantalla
 
 ![CapturaPrestamosGUI](https://github.com/Juan-Fuente-T/calculadora_prestamos_GUI/assets/127140423/28c9437a-2e13-466d-b5ca-0c8453c54e73)

@@ -19,8 +19,7 @@ Edición: GRATUITA
  - Breve descripción de la aplicación
  - Novedades y características especiales en esta versión
  - Instrucciones de uso
- - Requisitos de operación
- - Instalación
+ - Requisitos de uso
  - Créditos e información de contacto
 
 ### 1. Breve descripción de la aplicación
@@ -38,23 +37,30 @@ Para utilizar la Calculadora de Préstamos, siga estos pasos:
  - Presione "Enter" para calcular.
 La calculadora mostrará tanto la cuota mensual como la cuota anual. Los cálculos se basan en la fórmula real de interés compuesto del sistema francés.
 
-### 4. Requisitos de instalación
+### 4. Requisitos de uso
 Antes de ejecutar el programa, asegúrate de tener instalado Python en tu sistema. Puedes hacerlo siguiendo estos pasos:
 
-## Clona este repositorio en tu máquina local:
+ -  Clona este repositorio en tu máquina local:
 ### git clone https://github.com/tu-usuario/tu-proyecto.git
 
-## Ingresa al directorio del proyecto:
+ -  Ingresa al directorio del proyecto:
 ### cd tu-proyecto
 
-## Instala las dependencias necesarias ejecutando el siguiente comando:
+ -  Instala las dependencias necesarias ejecutando el siguiente comando:
 ### pip install -r requirements.txt
 
-## Ejecuta el siguiente comando para iniciar la aplicación:
+ - Ejecuta el siguiente comando para iniciar la aplicación:
 ### python calculadora_prestamos_grafica-0.0.1.py (o adaptar al nombre exacto del archivo si es necesario)
 
 ### 5. Créditos e información de contacto
-La Calculadora de Préstamos es creada, diseñada, desarrollada y documentada por Juan Fuente en 2023.
+
+# Licencia
+Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia aqui https://es.wikipedia.org/wiki/Licencia_MIT.
+
+# Contacto
+Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web ' https://juanfuente.ovh '
+
+# ¡Espero que disfrutes utilizando el conversor de divisas!
 
 **© 2023 Juan Fuente**
 

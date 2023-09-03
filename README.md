@@ -60,7 +60,7 @@ Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la 
 - ### Contacto
 Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web ' https://juanfuente.ovh '
 
-## ¡Espero que disfrutes utilizando el conversor de divisas!
+## ¡Espero que disfrutes utilizando y te sea útil la calculadora de préstamos!
 
 **© 2023 Juan Fuente**
 

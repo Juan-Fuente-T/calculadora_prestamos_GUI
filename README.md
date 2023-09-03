@@ -10,7 +10,7 @@ Autor: Juan Fuente
 Edición: GRATUITA
 
 
-# Captura de pantalla
+## Captura de pantalla
 ![CapturaPrestamosGUI](https://github.com/Juan-Fuente-T/calculadora_prestamos_GUI/assets/127140423/28c9437a-2e13-466d-b5ca-0c8453c54e73)
 
 
@@ -54,10 +54,10 @@ Antes de ejecutar el programa, asegúrate de tener instalado Python en tu sistem
 
 ### 5. Créditos e información de contacto
 
-## Licencia
+- ### Licencia
 Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia aqui https://es.wikipedia.org/wiki/Licencia_MIT.
 
-## Contacto
+- ### Contacto
 Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web ' https://juanfuente.ovh '
 
 ## ¡Espero que disfrutes utilizando el conversor de divisas!

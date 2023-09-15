@@ -1,0 +1,21 @@
+# *** Calculadora_prestamos_grafica :: Version 0.0.3 ***
+# Creative Commons: Juan Fuente 2023
+
+"""
+Esta aplicación de interfaz gráfica, multiplataforma (Windows, Linux, Mac), ofrece la funcionalidad de cálculo de cuotas, mensuales y anuales, basada en el método francés de interés compuesto. Toma como valores el capital, el interés a aplicar y el plazo en años para la devolución para calcular ambos valores. 
+
+
+Novedades de la versión 0.0.3
+- Se añaden la funcionalidad de que se borren las cantidades al entrar en foco después de haber calculado resultado al entrar en foco en las ventanas de toma de datos
+- Se termina la documentacion
+- Se eliminan lineas no necesarias y comentarios
+
+Novedades de la versión 0.0.2
+- Se añaden mensajes de error en caso de introducir valores incorrectos
+- Se borra la pantalla del valor que se ha introducido si se introduce un valor incorrecto
+- Se borran las pantallas de resultados si se introduce un valor incorrecto
+- Se colocan en su lugar todas las ventanas y pantallas de resultados
+- Se añaden todos los colores de la aplicación
+- Se añade el icono
+
+

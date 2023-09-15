@@ -5,6 +5,12 @@
 """
 Esta aplicación multiplataforma (Windows, Linux, Mac) ofrece una calculadora de prestamos utilizando el interes frances que opera mediante interfaz gráfica
 
+Novedades de la versión 0.0.3
+
+- Se añaden la funcionalidad de que se borren las cantidades al entrar en foco después de haber calculado resultado al entrar en foco en las ventanas de toma de datos
+- Se termina la documentacion
+- Se eliminan lineas no necesarias y comentarios
+
 
 Novedades de la versión 0.0.2
 - Se añaden mensajes de error en caso de introducir valores incorrectos
